@@ -1,9 +1,8 @@
 # PHP JWT AUTHENTICATION
 
-
-## Guide
-
 <br>
+
+### Guide
 
 - Clone this repo :
 
